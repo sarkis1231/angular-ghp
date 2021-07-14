@@ -10,7 +10,7 @@ import { TodoCardComponent } from './todo-card/todo-card.component';
     TodoCardComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
